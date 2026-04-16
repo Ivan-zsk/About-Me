@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ivan
+- 👋 Hi, I’m yohannes
 - 👀 I’m interested in anything about programming
 - 🌱 I’m currently learning cs
 - 💞️ I’m looking to collaborate on software projects
